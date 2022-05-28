@@ -2,7 +2,7 @@
 </h1> 
 
 
-
+____
 <table>
   <tr>
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Treifaa&theme=tokyonight&show_icons=true" />
@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-
+____
 * Eh we poto je m'appel treifa
 * Apprenti developpeur (J'essaye d'apprendre)
 * Sah pas sur mais 1 + 1 = 2
