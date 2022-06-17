@@ -6,7 +6,7 @@ ____
 <table>
   <tr>
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Treifaa&theme=tokyonight&show_icons=true" />
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Treifaa&theme=tokyonight&layout=default&show_icons=true" />
+      
   </tr>
 </table>
 
