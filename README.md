@@ -10,7 +10,3 @@ ____
   </tr>
 </table>
 
-____
-* Eh we poto je m'appel treifa
-* Apprenti developpeur (J'essaye d'apprendre)
-* Sah pas sur mais 1 + 1 = 2
