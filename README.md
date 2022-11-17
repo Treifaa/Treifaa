@@ -5,3 +5,4 @@
 * ⚙ Front-end
 * 🎇 TREIFA#3954
 * 🧨 Belgium
+* 🎆 Student
