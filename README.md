@@ -6,6 +6,6 @@ ____
          
 <table>
   <tr>
-      <img align="center" style="padding=0;" src="[https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Treifaa&theme=dark&layout=default&show_icons=true](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Treifaa&theme=dark&layout=default&show_icons=true" />
   </tr>
 </table>
